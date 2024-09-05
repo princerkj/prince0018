@@ -46,5 +46,5 @@ def get_series_winner(num_matches):
 
 num_matches = 9
 series_result = get_series_winner(num_matches)
-print ("series_winner": {series_winner['winner']}, matches_won= {series_winner['matches_won']} )
-print("series_winner": {series_winner['winner']}, matches_won= {series_winner['matches_won']})
+print(series_winner: {series_winner['winner']})
+print(matches_won= {series_winner['matches_won']})
