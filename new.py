@@ -46,7 +46,11 @@ def get_series_winner(num_matches):
     return result
 
 
-num_matches = 9
+print(f"Enter the number of matches played :")
+num_matches = int(input())
+
+
+
 series_result = get_series_winner(num_matches)
 #print(series_winner: {series_winner['winner']})
 #print(matches_won: {series_winner['matches_won']})
